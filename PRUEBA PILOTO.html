@@ -278,7 +278,7 @@ function enviarFormulario(event, tipo) {
   event.preventDefault();
   const form = event.target;
 
-  const cliente = form.querySelector("#clientePedido").value.trim();
+const cliente = form.querySelector("#clientePedido").value.trim();
 const productoTipo = form.querySelector("#productoTipoPedido").value.trim();
 const cantidad = form.querySelector("#cantidadPedido").value.trim();
 const direccionLocalidad = form.querySelector("#direccionLocalidadPedido").value.trim();
@@ -303,4 +303,5 @@ fetch("https://hook.us2.make.com/4dfdg5xh8a188lyp79ngxau12aoskmzk", {
 </script>
 
 </body>
+
 </html>
