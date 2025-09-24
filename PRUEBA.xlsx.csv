@@ -1,7 +1,0 @@
-﻿Pedido;Fecha ingreso;Tipo de envío;Cliente;Domicilio;Localidad;CP;Envio;Ubicación actual;Estado automático;Observaciones
-1;17/9/2025;URG;Distrigolo;Falcit Pagola 962;Zarate;B2800FOL;Urgente;Entregado;Recibiste tu pedido, que lo disfrutes;Entregar hoy
-2;17/9/2025;STD;Distribuidora De Golosinas;Galileo 520;Zarate;B2800FOL;Estándar;En centro de distribucion;En distribucion, falta poco;Entregar al día siguiente
-3;17/9/2025;STD;LC Market;Catán 821;Zarate;B1846ABL;Estándar;En preparación;En preparación;Entregar al día siguiente
-4;17/9/2025;PRG;Distribuidora Rojas;Cristi Raggio Larreta 763;Zarate;B1846ABL;Programado;Orden recibida;Solicitud recibida;Entregar en dos días
-5;17/9/2025;PRG;Golosinas;Paseo Patria 1430;Tigre;B1617ABK;Programado;Orden recibida;Solicitud recibida;Entregar en dos días
-6;18/9/2025;URG;Distribuidora D.R.;Falcit Pagola 962;Zarate;B2800FOL;Urgente;En preparación;En preparación;Entregar hoy
