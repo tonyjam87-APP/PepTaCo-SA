@@ -1,0 +1,6 @@
+﻿Pedido;Fecha ingreso;Tipo de envío;Cliente;Domicilio;Localidad;CP;Envío;Ubicación actual;Estado automático;Observaciones
+1;9/11/2025;PRG;Pablo Gálvez;Parque 824;Zárate;B2800FGO;Entregado;Entregado;Recibiste tu pedido, que lo disfrutes;Entregar hoy
+2;9/11/2025;PRG;Distribuidora Rojas;Av. Cazán 812;Zárate;B1648EAL;Programado;En preparación;En preparación;Entregar en dos días
+3;9/11/2025;PRG;De Golosinas;Av. Cazán 812;Zárate;B1648EAL;Programado;En preparación;En preparación;Entregar en dos días
+4;9/11/2025;PRG;Distribuidora Rojas;Gral. Roca 730;Zárate;B2800FGO;Programado;En preparación;En preparación;Entregar al día siguiente
+5;9/11/2025;PRG;SDC Market;España 1436;Zárate;B2800FGO;Programado;En preparación;En preparación;Entregar al día siguiente
